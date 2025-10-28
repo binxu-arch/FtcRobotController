@@ -1,3 +1,6 @@
+## Bin Xu notes
+StarterBotAuto and StarterBotTeleop are for Gobilda start bot with normal wheels.
+StarterBotTeleopMecanums is for for Gobilda start bot with Mecanums wheels.
 ## TeamCode Module
 
 Welcome!
